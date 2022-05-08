@@ -1,0 +1,48 @@
+ @import url('https://v1.fontapi.ir/css/Yekan'); 
+
+body,html{
+    font-family: 'Yekan', sans-serif;
+    direction: rtl;
+    background-image: url('../img/cool-background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+
+    
+}
+
+
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 500px;
+    width: 550px;
+    background: rgba(247, 247, 247, 0.5);
+    border-radius: 20px;
+    transform: translate(-50%, -50%)
+}
+
+.box {
+    margin: 60px 0 60px 0;
+
+
+}
+
+.center-reg {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: auto;
+    width: 550px;
+    background: rgba(247, 247, 247, 0.5);
+    border-radius: 20px;
+    transform: translate(-50%, -50%)
+}
+
+.content-main{
+
+    background: rgba(0, 0, 0, 0.5);
+    border-radius:10px;
+    padding: 5px;
+}
